@@ -1,0 +1,14 @@
+document_train/cong nghe/*
+document_train/giai tri/*
+document_train/giao duc/*
+document_train/kinh te/*
+document_train/phap luat/*
+document_train/the thao/*
+document_test/cong nghe/*
+document_test/giai tri/*
+document_test/giao duc/*
+document_test/kinh te/*
+document_test/phap luat/*
+document_test/the thao/*
+models/sentDetection/*
+models/tokenization/*
